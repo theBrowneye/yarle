@@ -1,0 +1,47 @@
+{
+    "enexSources": [
+        "/Users/gerry/Documents/Evernote conversions/enex"
+    ],
+    "templateFile": "./Template.gpb.tmpl",
+    "outputDir": "/Users/gerry/Documents/Evernote conversions/notes",
+    "keepOriginalHtml": false,
+    "isMetadataNeeded": true,
+    "isNotebookNameNeeded": false,
+    "isZettelkastenNeeded": false,
+    "useZettelIdAsFilename": false,
+    "plainTextNotesOnly": false,
+    "skipLocation": false,
+    "skipCreationTime": false,
+    "skipUpdateTime": false,
+    "skipSourceUrl": false,
+    "skipWebClips": false,
+    "skipTags": false,
+    "useHashTags": false,
+    "outputFormat": "ObsidianMD",
+    "taskOutputFormat": "ObsidianMD",
+    "keepImageSize": "ObsidianMD",
+    "skipEnexFileNameFromOutputPath": false,
+    "keepOriginalAmountOfNewlines": false,
+    "urlEncodeFileNamesAndLinks": false,
+    "pathSeparator": "/",
+    "sanitizeResourceNameSpaces": true,
+    "haveEnexLevelResources": true,
+    "haveGlobalResources": false,
+    "useUniqueUnknownFileNames": false,
+    "replacementChar": "_",
+    "logseqSettings": {
+        "journalNotes": false
+    },
+    "obsidianSettings": {
+        "omitLinkDisplayName": false
+    },
+    "nestedTags": {
+        "separatorInEN": "_",
+        "replaceSeparatorWith": "---",
+        "replaceSpaceWith": "-"
+    },
+    "resourcesDir": "resources",
+    "keepMDCharactersOfENNotes": false,
+    "monospaceIsCodeBlock": false,
+    "dateFormat": "YYYY-MM-DD"
+}
